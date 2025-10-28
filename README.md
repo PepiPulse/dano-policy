@@ -9,15 +9,15 @@ Dano 앱의 버전별 개인정보처리방침을 제공합니다.
 
 ## URL 구조
 
-- 메인 페이지: `https://pepipulse.github.io/dano-privacy-policy/`
-- v1.0: `https://pepipulse.github.io/dano-privacy-policy/v1.0/privacy_policy.html`
-- v2.0: `https://pepipulse.github.io/dano-privacy-policy/v2.0/privacy_policy.html`
+- 메인 페이지: `https://pepipulse.github.io/dano-policy/`
+- v1.0: `https://pepipulse.github.io/dano-policy/v1.0/privacy_policy.html`
+- v2.0: `https://pepipulse.github.io/dano-policy/v2.0/privacy_policy.html`
 
 ## Google Play Console 설정
 
 현재 v1.0 버전의 URL을 사용하세요:
 ```
-https://pepipulse.github.io/dano-privacy-policy/v1.0/privacy_policy.html
+https://pepipulse.github.io/dano-policy/v1.0/privacy_policy.html
 ```
 
 ## 업데이트 방법
